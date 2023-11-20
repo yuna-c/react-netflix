@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Netflix/static/css/main.7f26eeb2.css",
-    "main.js": "/React-Netflix/static/js/main.479dc6e8.js",
-    "static/js/787.2e642e9c.chunk.js": "/React-Netflix/static/js/787.2e642e9c.chunk.js",
-    "static/media/bg.jpg": "/React-Netflix/static/media/bg.3fce89e9a1eb2ded0f86.jpg",
-    "static/media/video_01.m4v": "/React-Netflix/static/media/video_01.053994fc9a5da7a97b5b.m4v",
-    "static/media/video_02.m4v": "/React-Netflix/static/media/video_02.b27bb59e747d5b567095.m4v",
-    "static/media/ico_keds.png": "/React-Netflix/static/media/ico_keds.ae0af5a9f5126689bfd0.png",
-    "static/media/ico_device.png": "/React-Netflix/static/media/ico_device.8e6539e8bfc6937a0648.png",
-    "static/media/ico_mo.jpg": "/React-Netflix/static/media/ico_mo.063578d5b6d5ab4155ec.jpg",
-    "static/media/ico_logo.png": "/React-Netflix/static/media/ico_logo.2ea6959de5a86bd775a9.png",
-    "static/media/ico_pc.png": "/React-Netflix/static/media/ico_pc.0049bc70babc1f94cf88.png",
-    "index.html": "/React-Netflix/index.html",
-    "main.7f26eeb2.css.map": "/React-Netflix/static/css/main.7f26eeb2.css.map",
-    "main.479dc6e8.js.map": "/React-Netflix/static/js/main.479dc6e8.js.map",
-    "787.2e642e9c.chunk.js.map": "/React-Netflix/static/js/787.2e642e9c.chunk.js.map"
+    "main.css": "/react-netflix/static/css/main.561ddcd2.css",
+    "main.js": "/react-netflix/static/js/main.9ba58ceb.js",
+    "static/js/787.2e642e9c.chunk.js": "/react-netflix/static/js/787.2e642e9c.chunk.js",
+    "static/media/bg.jpg": "/react-netflix/static/media/bg.3fce89e9a1eb2ded0f86.jpg",
+    "static/media/video_01.m4v": "/react-netflix/static/media/video_01.053994fc9a5da7a97b5b.m4v",
+    "static/media/video_02.m4v": "/react-netflix/static/media/video_02.b27bb59e747d5b567095.m4v",
+    "static/media/ico_keds.png": "/react-netflix/static/media/ico_keds.ae0af5a9f5126689bfd0.png",
+    "static/media/ico_device.png": "/react-netflix/static/media/ico_device.8e6539e8bfc6937a0648.png",
+    "static/media/ico_mo.jpg": "/react-netflix/static/media/ico_mo.063578d5b6d5ab4155ec.jpg",
+    "static/media/ico_logo.png": "/react-netflix/static/media/ico_logo.2ea6959de5a86bd775a9.png",
+    "static/media/ico_pc.png": "/react-netflix/static/media/ico_pc.0049bc70babc1f94cf88.png",
+    "index.html": "/react-netflix/index.html",
+    "main.561ddcd2.css.map": "/react-netflix/static/css/main.561ddcd2.css.map",
+    "main.9ba58ceb.js.map": "/react-netflix/static/js/main.9ba58ceb.js.map",
+    "787.2e642e9c.chunk.js.map": "/react-netflix/static/js/787.2e642e9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f26eeb2.css",
-    "static/js/main.479dc6e8.js"
+    "static/css/main.561ddcd2.css",
+    "static/js/main.9ba58ceb.js"
   ]
 }
