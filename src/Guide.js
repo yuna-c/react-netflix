@@ -17,6 +17,8 @@ script 에 추가
 "deploy": "gh-pages -d build",
 "predeploy": "npm run build"
 
+npm build
+
 후 
 $ npm run deploy
 */
