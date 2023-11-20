@@ -1,4 +1,4 @@
-https://yuna-c.github.io/React-Netflix/index.html
+https://yuna-c.github.io/React-netflix/index.html
 <br>
 
 # Getting Started with Create React App
