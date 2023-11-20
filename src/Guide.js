@@ -10,7 +10,7 @@ $ npm run build
 
 pakage.json 하단에
 ,
-"homepage" : "https://yuna-c.github.io/movie/"
+"homepage" : "https://yuna-c.github.io/react-netflix/" (다 소문자여야 해)
 
 script 에 추가
 ,
